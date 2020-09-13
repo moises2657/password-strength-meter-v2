@@ -4,6 +4,9 @@
 
 # Password Strength Meter For angular 9
 
+This is a fork repo from https://github.com/NicolasRoehm/password-strength-meter
+Its an enhancement for Internationalization.
+
 To display the strength of the password with a visual feedback.
 
 [Password Strength Meter](https://www.npmjs.com/package/angular-password-strength-meter) use [@contentpass/zxcvbn](https://github.com/contentpass/zxcvbn) to estimate the strength of the password and also provide a visual feedback with suggestions and warning messages.
