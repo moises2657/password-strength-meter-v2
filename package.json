@@ -1,5 +1,5 @@
 {
-  "name": "password-strength-meter",
+  "name": "password-strength-meter-v2",
   "version": "2.0.0",
   "scripts": {
     "ng": "ng",
@@ -69,7 +69,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/antoantonyk/password-strength-meter.git"
+    "url": "https://github.com/moises2657/password-strength-meter-v2.git"
   },
   "license": "MIT",
   "bugs": {
